@@ -1,5 +1,11 @@
-# Helping-Handz
-From trashy to classy.
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
 # GEMINI_API_KEY: Required for Gemini AI API calls.
 # AI Studio automatically injects this at runtime from user secrets.
 # Users configure this via the Secrets panel in the AI Studio UI.
